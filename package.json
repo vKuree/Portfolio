@@ -5,8 +5,7 @@
     "start": "parcel",
     "build": "parcel build"
   },
-  "dependencies": {
-    "@parcel/transformer-sass": "^2.5.0",
+  "devDependencies": {
     "parcel": "latest"
   }
 }
