@@ -1,0 +1,1 @@
+{"mappings":"AAGAA,QAAQC,ICFa,SADA","sources":["src/app.js","src/js/name.js"],"sourcesContent":["import {Fname, Lname} from \"./js/name\";\n\n\nconsole.log(Lname, Fname)","export const Fname = \"Kareem\"\nexport const Lname = \"Khalid\"\n\n"],"names":["console","log"],"version":3,"file":"index.dc6d1ba3.js.map"}
